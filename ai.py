@@ -14,7 +14,7 @@ st.markdown("""
     /* Sohbet giriş çubuğunun (chat input) arka planı */
     .stChatInputContainer input {
         background-color: #1e2530;
-        color: #ffffff;
+        color: #000000;
     }
     
     /* Başlık rengini özelleştir ##FDFD96*/
