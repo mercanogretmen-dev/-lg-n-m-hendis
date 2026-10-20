@@ -19,7 +19,7 @@ st.markdown("""
     
     /* Başlık rengini özelleştir ##FDFD96*/
     h1 {
-        color: #ff4b4b !important;
+        color: #50C878!important;
     }
     </style>
     """, unsafe_allow_html=True)
