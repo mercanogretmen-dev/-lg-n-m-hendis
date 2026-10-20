@@ -8,13 +8,13 @@ st.markdown("""
     /* Ana sayfa arka plan rengi */
     .stApp {
         background-color: #FF6B6B; /* Buraya istediğiniz renk kodunu yazabilirsiniz (Örn: #f0f2f6 veya siyah tonları) */
-        color: #ffffff; /* Genel yazı rengi */
+        color: #000000; /* Genel yazı rengi */
     }
     
     /* Sohbet giriş çubuğunun (chat input) arka planı */
     .stChatInputContainer input {
         background-color: #1e2530;
-        color: #000000;
+        color: #ffffff;
     }
     
     /* Başlık rengini özelleştir ##FDFD96*/
