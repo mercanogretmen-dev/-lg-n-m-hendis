@@ -26,7 +26,7 @@ st.markdown("""
 st.title(" 🐾⚡ çılgın mühendis: Arduino Eğitmeni")
 
 # API Anahtarını Streamlit Secrets üzerinden alıyoruz (Güvenlik için)
-genai.configure(api_key=st.secrets("API_KEY"))
+genai.configure(api_key=st.secrets["API_KEY"])
 
 # Ajanın Kuralları (Burayı görev kağıdındaki kendi kurallarınızla değiştirebilirsiniz)
 sistem_komutu = """
